@@ -38,3 +38,5 @@ jobs:
           api_location: ''
           output_location: ''
           skip_app_build: true
+
+# retrigger after standard upgrade
