@@ -39,4 +39,4 @@ jobs:
           output_location: ''
           skip_app_build: true
 
-# retrigger after standard upgrade
+# retrigger after config fix
